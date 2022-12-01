@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+ }
+
+a.header-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.container {
+  padding: 5rem 1rem 3rem 1rem;
+}
+
+.product-container {
+  padding: 3rem 1rem 3rem 1rem;
+}
+
+.navbar {
+  background-color: #F65C8C;
+}
+
+.checkout-container .row {
+  padding: 2rem 0 0 0;
+}
+
+.card {
+  margin-top: 3rem;
+}
+
+.cart-button {
+  float: right;
+}
+
+.product-image {
+  height: 191px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.cart-price {
+  float: right;
+}
+
+.remove-item {
+  display: inline-block;
+  padding-left: 1rem;
+  cursor: pointer;
+}
